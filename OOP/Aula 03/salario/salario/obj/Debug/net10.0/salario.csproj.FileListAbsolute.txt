@@ -1,0 +1,15 @@
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\bin\Debug\net10.0\salario.exe
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\bin\Debug\net10.0\salario.deps.json
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\bin\Debug\net10.0\salario.runtimeconfig.json
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\bin\Debug\net10.0\salario.dll
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\bin\Debug\net10.0\salario.pdb
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.AssemblyInfoInputs.cache
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.AssemblyInfo.cs
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.csproj.CoreCompileInputs.cache
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.sourcelink.json
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.dll
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\refint\salario.dll
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.pdb
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\salario.genruntimeconfig.cache
+C:\Users\FIC\source\repos\vGT05\OOP\vGT05\Feitos-em-casa\salario\obj\Debug\net10.0\ref\salario.dll
