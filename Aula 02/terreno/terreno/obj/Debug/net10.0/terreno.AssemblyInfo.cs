@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("terreno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71c2710ef13dc69545268fe5fa5a556ea8e612ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62dd9a4133c8ffcd27183d29c95aee82cbf1758e")]
 [assembly: System.Reflection.AssemblyProductAttribute("terreno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("terreno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
