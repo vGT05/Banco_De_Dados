@@ -18,8 +18,11 @@ namespace Locadora.Entidades
 			get { return fim; }
 			set { fim = value; }
 		}
-        public string Veiculo { get; set; }
-        public AluguelCarros(DateTime inicio, DateTime fim, string veiculo)
+        public Veiculo Veiculo { get; set; }
+		public Fatura Fatura { get; set; }
+
+
+        public AluguelCarros(DateTime inicio, DateTime fim, Veiculo veiculo)
         {
             Inicio = inicio;
             Fim = fim;
@@ -27,23 +30,6 @@ namespace Locadora.Entidades
         }
 
 
-		public void Aluguel()
-		{
-			
-			WriteLine("Data de retirada (dd/mm/aa hh/ss) ");
-			DateTime inicio = DateTime.Now;
-			WriteLine("Digite a data de devolução (dd//mm/aa hh/ss)");
-			DateTime fim = DateTime.Parse(ReadLine());
-			if (fim <= inicio)
-			{
-				WriteLine("Digite uma data válida.");
-				return;
-			}
-
-
-
-
-		}
 
 
 
