@@ -1,5 +1,6 @@
 ﻿
 using static System.Console;
+using static System.ConsoleColor;
 namespace SistemaBancario.Classes.Entidades
 {
     /// <summary>
@@ -70,11 +71,16 @@ namespace SistemaBancario.Classes.Entidades
         {
             if (valor <= 0)
             {
-                Console.WriteLine("Valor de depósito deve ser positivo.");
+                ForegroundColor = Red;
+                WriteLine("Valor de depósito deve ser positivo.");
+                ResetColor();
                 return;
             }
             Saldo += valor;
-            Console.WriteLine($"Depósito de {valor:C} realizado com sucesso ^w^");
+
+            ForegroundColor = Green;
+            WriteLine($"Depósito de {valor:C} realizado com sucesso ^w^");
+            ResetColor();
         }
 
        /// <summary>
@@ -87,12 +93,16 @@ namespace SistemaBancario.Classes.Entidades
         {
             if (valor <= 0)
             {
-                Console.WriteLine("Valor de saque deve ser positivo");
+                ForegroundColor = Red;
+                WriteLine("Valor de saque deve ser positivo");
+                ResetColor();
                 return;
             }
             Saldo -= (valor + taxaSaque);
-            Console.WriteLine($"Saque de {valor:C} realizado com sucesso! Taxa de {taxaSaque:C^} cobrada.");
-
+            
+            ForegroundColor = Green;
+            WriteLine($"Saque de {valor:C} realizado com sucesso! Taxa de {taxaSaque:C} cobrada.");
+            ResetColor();
      
         }
         /// <summary>
