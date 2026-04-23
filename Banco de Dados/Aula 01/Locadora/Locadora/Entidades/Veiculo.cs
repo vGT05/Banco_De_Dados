@@ -3,14 +3,13 @@ namespace Locadora.Entidades
 {
     internal class Veiculo
     {
-		private string modelo;
-
-
+		
+        private string modelo;
         public string Modelo
-		{
-			get { return modelo; }
-			set { modelo = value; }
-		}
+        {
+            get { return modelo; }
+            set { modelo = value; }
+        }
         public Veiculo(string modelo)
         {
             Modelo = modelo;

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Documents\\CSharp2026\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj": {}
+    "C:\\Users\\roser\\source\\repos\\vGT05\\Banco_De_Dados\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Documents\\CSharp2026\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj": {
+    "C:\\Users\\roser\\source\\repos\\vGT05\\Banco_De_Dados\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Documents\\CSharp2026\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj",
+        "projectUniqueName": "C:\\Users\\roser\\source\\repos\\vGT05\\Banco_De_Dados\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj",
         "projectName": "Locadora",
-        "projectPath": "C:\\Users\\FIC\\Documents\\CSharp2026\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj",
-        "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Documents\\CSharp2026\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\obj\\",
+        "projectPath": "C:\\Users\\roser\\source\\repos\\vGT05\\Banco_De_Dados\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\Locadora.csproj",
+        "packagesPath": "C:\\Users\\roser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roser\\source\\repos\\vGT05\\Banco_De_Dados\\Banco de Dados\\Aula 01\\Locadora\\Locadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\FIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\roser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
